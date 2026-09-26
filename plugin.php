@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Custom Title Editor
-Plugin URI: https://yourls.org
+Plugin URI: https://github.com/arukanix/Yourls-CustomTitleEditor
 Description: 設定画面からブラウザのページタイトルを自由に変更できるプラグインです。
 Version: 1.1
 Author: Oimo
-Author URI: 
+Author URI: https://imokawa.jp
 */
 
 // 各種フックの登録
