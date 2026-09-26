@@ -41,4 +41,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-- **Your Name** - *Initial work* - [Your GitHub Profile](https://github.com)
+- **Oimo** - *Initial work* - [My GitHub Profile](https://github.com/arukanix)
