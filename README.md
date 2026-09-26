@@ -1,0 +1,2 @@
+# Yourls-CustomTitleEditor
+YOURLSでページのタイトルを変えられるプラグイン
